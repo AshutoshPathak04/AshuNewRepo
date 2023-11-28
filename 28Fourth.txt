@@ -1,0 +1,2 @@
+Hi,
+This is the fourth text file for Master branch.
